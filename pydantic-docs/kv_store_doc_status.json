@@ -1,0 +1,17 @@
+{
+  "doc-2e1b9fe563617d8860e1b68b6bcdbd0c": {
+    "status": "failed",
+    "error_msg": "RetryError[<Future at 0x2a776726710 state=finished raised RateLimitError>]",
+    "content_summary": "# Pydantic AI\n\n> GenAI Agent Framework, the Pydantic way\n\nPydantic AI is a Python agent framework designed to make it less painful to build production grade\napplications with Generative AI.\n\n## Introduction\n\n- [Pydantic AI](https://ai.pydantic.dev/in...",
+    "content_length": 6343,
+    "created_at": "2025-10-11T22:09:00.121530+00:00",
+    "updated_at": "2025-10-11T22:09:16.887787+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251011_150900_a2df598e",
+    "metadata": {
+      "processing_start_time": 1760220540,
+      "processing_end_time": 1760220556
+    },
+    "chunks_list": []
+  }
+}
